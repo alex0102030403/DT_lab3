@@ -1,0 +1,7 @@
+{
+  "name": "it-prototype",
+  "description": "A simple prototype for the IT department",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
